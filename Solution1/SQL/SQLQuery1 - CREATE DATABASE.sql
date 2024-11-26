@@ -1,0 +1,18 @@
+CREATE DATABASE AcademySQL
+ON
+(
+NAME		= AcahemySQL,
+FILENAME	= 'C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\AcahemySQL.mdf',
+SIZE		= 8MB,
+MAXSIZE		= 512MB,
+FILEGROWTH	= 8MB
+)
+
+LOG ON
+(
+NAME		= AcademySQL_Log,
+FILENAME	= 'C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\DATA\AcademySQL_Log.ldf',
+SIZE		= 8MB,
+MAXSIZE		= 512MB,
+FILEGROWTH	= 8MB
+)
