@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CreateTables">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DML">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-GE3OG10\SQLEXPRESS:DESKTOP-GE3OG10\User">
-          <Created>2024-11-27T19:02:49.573651+03:00</Created>
+          <Created>2024-11-30T22:28:46.4508639+03:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-GE3OG10\SQLEXPRESS</Server>
           <UserName />
           <Authentication>Windows Authentication</Authentication>
-          <InitialDB>Academy</InitialDB>
+          <InitialDB />
           <LoginTimeout>30</LoginTimeout>
           <TrustServerCertificate>True</TrustServerCertificate>
           <HostNameInServerCertificate />
@@ -22,41 +22,41 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="SQLQuery0 - Cteare DATABASE WITH Tables.sql">
+        <FileNode Name="SQLQuery1 - INSERT Directions .sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery0 - Cteare DATABASE WITH Tables.sql</FullPath>
+          <FullPath>SQLQuery1 - INSERT Directions .sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - Create Students Breanch.sql">
+        <FileNode Name="SQLQuery2 - INSERT Groups.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - Create Students Breanch.sql</FullPath>
+          <FullPath>SQLQuery2 - INSERT Groups.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2 - Create Teachrs.sql">
+        <FileNode Name="SQLQuery3 - INSERT Students.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2 - Create Teachrs.sql</FullPath>
+          <FullPath>SQLQuery3 - INSERT Students.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery3 - Create Disciplines.sql">
+        <FileNode Name="SQLQuery4 - SELECT Students.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery3 - Create Disciplines.sql</FullPath>
+          <FullPath>SQLQuery4 - SELECT Students.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery4 - Relations to Disciplines.sql">
+        <FileNode Name="SQLQuery5 - SELECT Students 2.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery4 - Relations to Disciplines.sql</FullPath>
+          <FullPath>SQLQuery5 - SELECT Students 2.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery5 - Create Schedule.sql">
+        <FileNode Name="SQLQuery6 - AGGREGATION.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery5 - Create Schedule.sql</FullPath>
+          <FullPath>SQLQuery6 - AGGREGATION.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

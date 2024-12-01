@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CreateTables">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TeachersAndDisciplines">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-GE3OG10\SQLEXPRESS:DESKTOP-GE3OG10\User">
-          <Created>2024-11-27T19:02:49.573651+03:00</Created>
+          <Created>2024-12-01T13:34:15.9066009+03:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-GE3OG10\SQLEXPRESS</Server>
           <UserName />
           <Authentication>Windows Authentication</Authentication>
-          <InitialDB>Academy</InitialDB>
+          <InitialDB>PD_318_DML</InitialDB>
           <LoginTimeout>30</LoginTimeout>
           <TrustServerCertificate>True</TrustServerCertificate>
           <HostNameInServerCertificate />
@@ -22,41 +22,23 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="SQLQuery0 - Cteare DATABASE WITH Tables.sql">
+        <FileNode Name="SQLQuery1 - All Teachers and Disciplines.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery0 - Cteare DATABASE WITH Tables.sql</FullPath>
+          <FullPath>SQLQuery1 - All Teachers and Disciplines.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - Create Students Breanch.sql">
+        <FileNode Name="SQLQuery2 - COUNT Teachers for Disciplines.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - Create Students Breanch.sql</FullPath>
+          <FullPath>SQLQuery2 - COUNT Teachers for Disciplines.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2 - Create Teachrs.sql">
+        <FileNode Name="SQLQuery3 - COUNT Disciplines for Teachers.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2 - Create Teachrs.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery3 - Create Disciplines.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery3 - Create Disciplines.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery4 - Relations to Disciplines.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery4 - Relations to Disciplines.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery5 - Create Schedule.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery5 - Create Schedule.sql</FullPath>
+          <FullPath>SQLQuery3 - COUNT Disciplines for Teachers.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
