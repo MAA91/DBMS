@@ -28,11 +28,29 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery0 - ALTER GROUPS.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1.sql">
+        <FileNode Name="SQLQuery1 - INSERT StacionarToShedule.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
+          <FullPath>SQLQuery1 - INSERT StacionarToShedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 - SELECT FROM Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 - SELECT FROM Schedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery22 - Check procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery22 - Check procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3 - CREATE PROCEDURE - Shedule for Group.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3 - CREATE PROCEDURE - Shedule for Group.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
