@@ -11,6 +11,7 @@ BEGIN
 
 	SELECT
 		[Дата]			= [date],
+		[День недели]	= DATENAME(WEEKDAY, [date]),
 		[Время]			= [time],
 		[Группа]		= group_name,
 		[Дисциплина]	= discipline_name,
