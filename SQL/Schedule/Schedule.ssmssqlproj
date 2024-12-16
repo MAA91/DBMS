@@ -28,11 +28,11 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery0 - ALTER GROUPS.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery0 - Check procedure.sql">
+        <FileNode Name="SQLQuery0 - Check procedures.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery0 - Check procedure.sql</FullPath>
+          <FullPath>SQLQuery0 - Check procedures.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery1 - INSERT StacionarToShedule.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>

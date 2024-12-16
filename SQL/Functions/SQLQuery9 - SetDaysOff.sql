@@ -20,6 +20,13 @@ BEGIN
 		PRINT(DATEFROMPARTS(@year, 03, 08))
 	END
 
+	IF NOT EXISTS (SELECT day_off_id FROM DaysOFF WHERE [date] = dbo.GetEasterDate(@year))
+	BEGIN
+		INSERT DaysOFF	([date], holiday)
+		VALUES			(dbo.GetEasterDate(@year), (SELECT holiday_id FROM Holidays WHERE holiday_name = N'Пасха'))
+		PRINT(dbo.GetEasterDate(@year));
+	END
+
 	EXEC sp_MayHoliDaysFor		@year;
 	EXEC sp_SummerHolidaysFor	@year;
 END

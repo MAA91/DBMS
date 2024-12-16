@@ -40,6 +40,12 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery1 - LESSONS FOR Group.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery7 - GetEasterDate FUNCTION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery7 - GetEasterDate FUNCTION.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery8 - GetLastMonOfApril.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
