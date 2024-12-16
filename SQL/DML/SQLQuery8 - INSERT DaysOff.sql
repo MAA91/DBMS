@@ -1,0 +1,6 @@
+USE PD_318_DML;
+GO
+
+SET DATEFIRST 1;
+
+EXEC sp_NewYearDaysFor 2024;

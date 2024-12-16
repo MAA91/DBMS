@@ -28,11 +28,59 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery0 - CHECK FUNCTION.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery0 - CHECK Holidays.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery0 - CHECK Holidays.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery1 - LESSONS FOR Group.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1 - LESSONS FOR Group.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - GetLastMonOfApril.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - GetLastMonOfApril.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - GetLastMonOfJuly.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - GetLastMonOfJuly.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - GetLastMonOfYear.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - GetLastMonOfYear.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - MayHolidays PROCEDURE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - MayHolidays PROCEDURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - NewYearDays PROCEDURE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - NewYearDays PROCEDURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - SummerHolidays Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - SummerHolidays Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery9 - SetDaysOff.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GE3OG10\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GE3OG10\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery9 - SetDaysOff.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
